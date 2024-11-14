@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Nov 2024 14:04:59 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reactlearn</title>
+      <link>//localhost:1313/post/reactlearn/</link>
+      <pubDate>Thu, 14 Nov 2024 14:04:59 +0800</pubDate>
+      <guid>//localhost:1313/post/reactlearn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>人生</title>
+      <link>//localhost:1313/post/test-chinese/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/test-chinese/</guid>
+      <description>&lt;h2 id=&#34;正文&#34;&gt;正文&lt;/h2&gt;&#xA;&lt;p&gt;每天学习 React&#xA;每天坚持写代码，你可以参加 100 天代码挑战，每天打卡，让它成为一种习惯。&#xA;&lt;code&gt;[你是《未来世界的幸存者》么？]&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;跟着-react-官方文档去学习&#34;&gt;跟着 React 官方文档去学习&lt;/h3&gt;&#xA;&lt;p&gt;作为 web 开发的初学者，查阅库的文档，特别是需要阅读大量英文，会让我感到害怕。但我坚信这是学习新东西的最好方式。阅读官方文档它至少有下面的几个好处:&lt;/p&gt;&#xA;&lt;p&gt;有完整的新手教程&#xA;你能看到核心贡献者的建议&#xA;最新的知识点和最新的版本&#xA;完善的API references&lt;/p&gt;&#xA;&lt;h3 id=&#34;对外输出&#34;&gt;对外输出&lt;/h3&gt;&#xA;&lt;p&gt;通过展示自己的成果来得到其他 React 开发者的反馈。如果你的 React 项目达到了一个里程碑，把它展示给其他人并征求他们的反馈。下面是一些可以分享 React 作品的知名平台:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Reddit&#xA;reactiflux&#xA;spectrum&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;进一步学习&#34;&gt;进一步学习&lt;/h3&gt;&#xA;&lt;p&gt;学习完 React 组件化、Props/State 以及 JSX 语法之后，深入了解高级的 React 概念和模式，例如:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;React Hooks&#xA;高阶组件&#xA;Render Props&#xA;React Context&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;组合开发&#34;&gt;组合开发&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;React + React Router： 使用路由开发 React 单页应用&#xA;React + Firebase: 将 React 应用链接到数据库并实现用户身份验证/授权&#xA;React + GraphQL: 通过一个 GraphQL 接口将 React 应用连接到 Node.js 后端应用程序&#xA;React + Redux: 在 React 应用中使用可预测的状态管理&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
