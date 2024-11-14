@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Menglf-Mo.github.io/moBlog/en/categories/</loc>
+    <loc>https://menglf-mo.github.io/moBlog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://Menglf-Mo.github.io/moBlog/categories/"
+                href="https://menglf-mo.github.io/moBlog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Menglf-Mo.github.io/moBlog/en/categories/"
+                href="https://menglf-mo.github.io/moBlog/en/categories/"
                 />
   </url><url>
-    <loc>https://Menglf-Mo.github.io/moBlog/en/</loc>
+    <loc>https://menglf-mo.github.io/moBlog/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://Menglf-Mo.github.io/moBlog/"
+                href="https://menglf-mo.github.io/moBlog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Menglf-Mo.github.io/moBlog/en/"
+                href="https://menglf-mo.github.io/moBlog/en/"
                 />
   </url><url>
-    <loc>https://Menglf-Mo.github.io/moBlog/en/tags/</loc>
+    <loc>https://menglf-mo.github.io/moBlog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://Menglf-Mo.github.io/moBlog/tags/"
+                href="https://menglf-mo.github.io/moBlog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Menglf-Mo.github.io/moBlog/en/tags/"
+                href="https://menglf-mo.github.io/moBlog/en/tags/"
                 />
   </url>
 </urlset>
